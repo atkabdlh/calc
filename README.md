@@ -1,2 +1,2 @@
 # calc
-a simple calculator project
+A simple calculator project made for fun
